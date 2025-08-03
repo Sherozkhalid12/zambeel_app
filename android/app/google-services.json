@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127146027123",
+    "project_id": "zanbeelapp-8cd30",
+    "storage_bucket": "zanbeelapp-8cd30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127146027123:android:501314bb9feeaebd6f6206",
+        "android_client_info": {
+          "package_name": "com.zambeel.store.zambeel_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmxulxOaFYXY_rkCNcH0oh-LpUJsv663k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
